@@ -1,4 +1,4 @@
 <foo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:noNamespaceSchemaLocation="foo.xsd">
-  <bar></bar>
+ <bar></bar>
 </foo>
